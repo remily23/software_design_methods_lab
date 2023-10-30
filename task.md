@@ -22,10 +22,10 @@ A **bottom-up** design instead considers to the requirements of users issues, an
 A **class diagram** would be the most useful for a **top-down** design, as it would allow developers to ensure they address all elements of the system and architecture needed which has been mapped out at a high-level. It will also be beneficial as a class diagram will display smaller components, and how their relationship functions within the application as a whole.
 
 ### 4. What are the **four pillars of object oriented programming**? Give a single-sentence description of each?
-    1. **Abstraction:** Hides the implementation of objects in an OOP language, i.e. a interacting with a coffee machine app at user level will not include setting the water temperature, or the amount of ground coffee needed to brew.
-    2. **Encapsulation:** Restricts the access to the data of an object.
-    3. **Inheritance:** Used as a method to implement superclasses, allowing child classes to 'inherit' / share certain properties and behaviours, i.e. a zoo has animals that all eat different foods.
-    4. **Polymorphism:** Allows an object to use and take on several variables / methods of different types at different times. 
+-  **Abstraction:** Hides the implementation of objects in an OOP language, i.e. a interacting with a coffee machine app at user level will not include setting the water temperature, or the amount of ground coffee needed to brew.
+- **Encapsulation:** Restricts the access to the data of an object.
+- **Inheritance:** Used as a method to implement superclasses, allowing child classes to 'inherit' / share certain properties and behaviours, i.e. a zoo has animals that all eat different foods.
+- **Polymorphism:** Allows an object to use and take on several variables / methods of different types at different times. 
 
 ### 5. What is the **strategy pattern**? How would its implementation differ between a functional and object oriented system?
 The **strategy pattern** is a design that allows objects to pick from multiple algorithms and behaviours, encapsuating each one, then making them interchangeable. It enables algorithms to be separated from the main object, therefore, allowing the object to assign the behavior of the chosen algorithm.
