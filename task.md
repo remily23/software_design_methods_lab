@@ -30,6 +30,9 @@ A **class diagram** would be the most useful for a **top-down** design, as it wo
 ### 5. What is the **strategy pattern**? How would its implementation differ between a functional and object oriented system?
 The **strategy pattern** is a design that allows objects to pick from multiple algorithms and behaviours, encapsuating each one, then making them interchangeable. It enables algorithms to be separated from the main object, therefore, allowing the object to assign the behavior of the chosen algorithm.
 
-
-   
 ### 6. Imagine your is creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? Give some justification for your decision.
+I propose that an Agile methodology would be the most suitable to use when creating a new online payment system. The Agile approach would allow for continous developement and deployment with sprints, which would enable a developer team to release regular updates, as well as ensure that the appliction is functioning at an optimum level for different sectors, such as takeaways and clothes stores in this case.
+
+The Agile way of working will also help teams address any new problems that arise during the development process, as well as the opportunity to work closely with clients on new technical landscapes and other budget related matters.
+
+
